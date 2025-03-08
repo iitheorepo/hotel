@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Web", "Hotel.Web\Hotel.Web.csproj", "{FAC86F76-870F-42AB-8A1B-3A47CF8D9304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC86F76-870F-42AB-8A1B-3A47CF8D9304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC86F76-870F-42AB-8A1B-3A47CF8D9304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC86F76-870F-42AB-8A1B-3A47CF8D9304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC86F76-870F-42AB-8A1B-3A47CF8D9304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
